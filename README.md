@@ -45,7 +45,7 @@ B.Eng in Computer Science & Technology (2022- 2026 expected graduation)
 - High performance on Tianchi benchmark (Score: 552.6)
 - Solved high-dimensional instability with PCA
 
-#### [DiffSimu - 2D & 3D Structural Analysis](https://github.com/22222Van/DiffSimu)
+#### 🏯 [DiffSimu - 2D & 3D Structural Analysis](https://github.com/22222Van/DiffSimu)
 `Stiffness Matrix` `Differential Method`
 - 3D simulation framework for truss structures
 - Implemented differential solver for displacement analysis
